@@ -14,7 +14,7 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 
 
-### Day 1 (Thursday, 3rd of September)
+### Day 1 (Friday, 3rd of September)
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
@@ -24,14 +24,14 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 
 
-### Day 2 (Friday, 4th of September)
+### Day 2 (Saturday, 4th of September)
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
 | CNN Architectures: VGG, ResNet, Inception, MobileNet | <nobr>13:30 - 15:00</nobr> | [link](https://forms.gle/vJpdL42iuoshXAjG9) | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) | [link](day2_cnn_arch.pdf) | 
 | Neural Networks for Natural Language Processing (NLP) | - | [link](https://forms.gle/T9khWj5hnFNnCH2s7) | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | [link](day2_nlp.pdf) | 
 
-### Day 3 (Saturday, 5th of September)
+### Day 3 (Sunday, 5th of September)
 
 | Module | Time | Quiz | Additional material |  Slides |
 |--- |--- | --- | --- |  --- | 
