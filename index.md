@@ -1,9 +1,7 @@
-# Computer Vision Training Camp 2020: "Building an image search engine"
+# Computer Vision Training Camp 2021: "Building an image search engine"
 Sapienza University of Rome
 
-Instructors: Dr. Mykhaylo Andriluka, Alessandro Flaborea, Luca Franco, Prof. Dr. Fabio Galasso
-
-Note: please ask questions about the material using the course webpage on [Piazza](https://piazza.com/google/fall2020/tcse2020) or via the mailling list.
+Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr. Fabio Galasso
 
 ## Training Camp Schedule 
 
