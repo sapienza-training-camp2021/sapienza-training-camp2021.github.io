@@ -22,6 +22,7 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 | Neural networks recap  |<nobr>10:30 - 11:30</nobr>| - | - | - | 
 | Convolutional neural networks | - | - | - | - | 
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
+| "TensorFlow, Keras and deep learning, without a PhD" - Q&A |<nobr>14:00 - 15:00</nobr>| - | - | - | 
 
 
 ### Day 2 (Saturday, 4th of September)
