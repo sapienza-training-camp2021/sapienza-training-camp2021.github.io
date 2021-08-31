@@ -9,9 +9,8 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Topic  | Quiz | 
 |--- |--- |
-| [TensorFlow, Keras and deep learning, without a PhD (Sections 1 - 7)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist) | - | 
-| [TensorFlow, Keras and deep learning, without a PhD (Sections 8 - 15)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#7)| - | 
-
+| [TensorFlow, Keras and deep learning, without a PhD (Sections 1 - 7)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist) | [link](https://forms.gle/2WR4vHGgUWokz5BGA) | 
+| [TensorFlow, Keras and deep learning, without a PhD (Sections 8 - 15)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#7)| [link](https://forms.gle/FVcGxoFnRG87qCdL9) | 
 
 
 ### Day 1 (Thursday, 2nd of September)
