@@ -17,8 +17,8 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
-| Introduction to the training camp  |<nobr>10:00 - 10:30</nobr>| - | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | | 
-| Neural networks recap  |<nobr>10:30 - 11:30</nobr>| - | - | - | 
+| Introduction to the training camp  |<nobr>10:05 - 10:30</nobr>| [link] (https://forms.gle/qQg8aJsfUoR56AnF8) | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | | 
+| Neural networks recap  |<nobr>10:30 - 11:30</nobr>| [link] (https://forms.gle/1eBxNHe835aGXk4G6) | - | - | 
 | Convolutional neural networks | - | - | - | - | 
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 | "TensorFlow, Keras and deep learning, without a PhD" - Q&A session|<nobr>14:00 - 15:00</nobr>| - | - | - | 
