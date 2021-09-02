@@ -17,9 +17,8 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
-| Introduction to the training camp  |<nobr>10:05 - 10:45</nobr>| [link](https://forms.gle/qQg8aJsfUoR56AnF8) | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | - | 
-| Neural networks recap  |<nobr>10:45 - 11:30</nobr>| [link](https://forms.gle/1eBxNHe835aGXk4G6) | - | - | 
-| Convolutional neural networks | - | - | - | - | 
+| Introduction to the training camp  |<nobr>10:05 - 10:45</nobr>| [link](https://forms.gle/qQg8aJsfUoR56AnF8) | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | [link](Sapienza_Training_Camp_2021_Introduction.pdf) | 
+| Neural networks recap  |<nobr>10:45 - 11:30</nobr>| [link](https://forms.gle/1eBxNHe835aGXk4G6) | - | [link](Sapienza_Training_Camp_2021_Introduction_to_Neural_Networks.pdf) | 
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 | "TensorFlow, Keras and deep learning, without a PhD" - Q&A session|<nobr>14:00 - 15:00</nobr>| - | - | - | 
 
@@ -28,7 +27,8 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
-| CNN Architectures: VGG, ResNet, Inception, MobileNet | <nobr>13:30 - 15:00</nobr> | - | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) |- | 
+| Convolutional neural networks | <nobr>13:30 - 15:00</nobr> | - | - | - | 
+| CNN Architectures: VGG, ResNet, Inception, MobileNet | - | - | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) |- | 
 | Neural Networks for Natural Language Processing (NLP) | - | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx), [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox) |- | 
 
 ### Day 3 (Saturday, 4th of September)
