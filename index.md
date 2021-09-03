@@ -27,9 +27,9 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Module | Time | Quiz | Additional material |  Slides  |
 |--- |--- | --- | --- |  --- | 
-| Convolutional neural networks | <nobr>13:30 - 15:00</nobr> | - | - | - | 
-| CNN Architectures: VGG, ResNet, Inception, MobileNet | - | - | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) |- | 
-| Neural Networks for Natural Language Processing (NLP) | - | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx), [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox) |- | 
+| Convolutional neural networks | <nobr>13:30 - 15:00</nobr> | [link](https://forms.gle/4UjroG8mQEtFVFE29) | - | - | 
+| CNN Architectures: VGG, ResNet, Inception, MobileNet | [link](https://forms.gle/HpezKsTfBgzkgLZZ7) | - | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) |- | 
+| Neural Networks for Natural Language Processing (NLP) | [link](https://forms.gle/5aMkFgFbYJNC7Do18) | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx), [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox) |- | 
 
 ### Day 3 (Saturday, 4th of September)
 
