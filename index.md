@@ -35,6 +35,6 @@ Instructors: Dr. Mykhaylo Andriluka, Alessio Sampieri, Laura Laurenti, Prof. Dr.
 
 | Module | Time | Quiz | Additional material |  Slides |
 |--- |--- | --- | --- |  --- | 
-| Image captioning. Attention models in computer vision and NLP. |<nobr>10:00 - 11:30</nobr>| - | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), [Image captioning colab](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) | - | 
+| Image captioning. Attention models in computer vision and NLP. |<nobr>10:00 - 11:30</nobr>| [link](https://forms.gle/RnBLRo9My5fWF8s2A) | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), [Image captioning colab](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) | - | 
 | End of the Kaggle competition. | 16:00  | - | - | - | 
 | Announcement of the Kaggle competition results. Short presentations by the competition winners. |<nobr>17:00 - 17:30</nobr>| - | - | - | 
